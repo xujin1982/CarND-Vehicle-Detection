@@ -112,7 +112,7 @@ I create a Cars() class to record the detected labels in a deque to filter out t
 
 ![alt text][image6]
 
-### Here is the output of deque result on the integrated binary maps from all seven frames:
+### Here is the output of deque result on the integrated heat maps from all seven frames:
 
 ![alt text][image7]
 
