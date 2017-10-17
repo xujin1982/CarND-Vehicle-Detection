@@ -94,7 +94,7 @@ In the final model, two scales ((48,48) and (128, 128)) YCrCb 3-channel HOG feat
 
 ### Video Implementation
 
-####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
+####1. Provide a link to my final video output.  
 Here's a [link to my video result](./output_video/project_video.mp4)
 
 
